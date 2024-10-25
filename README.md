@@ -1,1 +1,1 @@
-# SD-A-FMI-Practicum
+# SD-(A)-FMI-Practicum
